@@ -1,0 +1,13 @@
+3
+
+Jeong
+20130001
+Computer
+
+Kim
+20130002
+Electronics
+
+Jo
+20130005
+Mathmatics
